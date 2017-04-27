@@ -2826,6 +2826,7 @@ USA.
 	  microcode-id/machine-type
 	  microcode-id/operating-system
 	  microcode-id/operating-system-name
+	  microcode-id/operating-system-suffix
 	  microcode-id/operating-system-variant
 	  microcode-id/stack-type
 	  microcode-id/tty-x-size
